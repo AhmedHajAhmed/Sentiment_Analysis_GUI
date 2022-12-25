@@ -1,6 +1,4 @@
-# Sentiment_Analysis_GUI
-
-## Sentiment Analysis GUI Report 
+# Sentiment Analysis GUI Report 
 ### Team Members: Vivek Mittal-Henkle, Ahmed Haj Ahmed, Pau Pinya-Nadal
 #### This is our final project for the course "CS105 Introduction to Computer Science"
 
